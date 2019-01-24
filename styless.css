@@ -1,0 +1,142 @@
+html, body{
+    height: 100%;
+    width: auto;
+    font-family: 'fira sans', sans-serif;
+}
+
+body{
+    background-color: #f9fafc
+}
+
+.navi{
+    width: 100%;
+    margin-left: 2%;
+}
+
+li{
+    display: inline;
+    margin: 8px;
+  }
+
+
+.logo{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.order{
+    margin-top: 0%;
+    margin-left: 75%;
+}
+
+.container-left{
+    float: left;
+    margin-left: 16px;
+    width:50%;
+    text-align:center;
+    margin-top: 8%;
+    border-left: 1.5px solid #69696a;
+    height: 270px;
+}
+
+.container-right{
+    float: right;
+    margin-left: 10px;
+    width:40%;
+    text-align:center;
+    margin-top: 15%;   
+}
+
+.body-text{
+    font-size: 18px;
+    color: #69696a;
+    letter-spacing: 1px;
+    text-align: left;
+    margin-left: 4%;  
+    line-height: 1.6; 
+}
+
+.chirpus{
+    margin-right: 70%;
+    font-size: 38px;
+}
+
+
+.container-pink{
+    width: 340px;
+    height: 340px;
+    background-color:rgba(247, 136, 167, 0.6);
+    border: 1px solid rgba(247, 136, 167, 0.6);
+    border-radius: 50%;
+    margin:5px;
+    display: inline-block;
+    border: none;
+    margin-right: -60%;
+    margin-top: -10%;
+    opacity: .7;
+}
+
+.container-tan{
+    width: 290px;
+    height: 290px;
+    background-color:rgba(247, 193, 162, 0.7);
+    border: 1px solid rgba(247, 193, 162, 0.7);
+    border-radius: 50%;
+    margin:5px;
+    display: inline-block;
+    border: none;
+    opacity: .7;
+    margin-left: 49%;
+    margin-bottom: -14%;
+}
+
+.container-purple{
+    width: 190px;
+    height: 190px;
+    background-color:rgba(207, 130, 213, 0.6);
+    border: 1px solid rgba(207, 130, 213, 0.6);
+    border-radius: 50%;
+    margin:5px;
+    display: inline-block;
+    border:none;
+    opacity: .7;
+    margin-bottom: 13%;
+    position: absolute;
+    margin-left: 21%;
+    margin-top: -3%;
+}
+
+.scroll{
+    clear:both;
+    width: 6%;
+    height: 30px;
+    background-color:black;
+    border-radius: 18px;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 50%;
+    bottom: 0;
+    color: white;
+    position: absolute;
+    padding-top: 8px;
+    margin-bottom: 2%;
+
+}
+   
+.button1{
+    background-color:black;
+    border-radius: 18px;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    padding-top: 4px;
+    padding: 6px;
+    padding-left: 14px;
+    padding-right: 14PX;
+}
+
+
+a{
+    text-decoration: none;
+    color: #69696a;
+}
